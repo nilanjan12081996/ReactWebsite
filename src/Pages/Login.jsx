@@ -83,7 +83,7 @@ const Login=()=>{
     />
   </div>
   <button type="submit" class="btn btn-primary">Login</button>
-  <Link onClick={reg} to='/register'>Don't Have Account?Register Here</Link>
+  <Link onClick={reg} to='/registration'>Don't Have Account?Register Here</Link>
 </form>
     </div>
     </Paper>
