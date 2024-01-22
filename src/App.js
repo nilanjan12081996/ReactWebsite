@@ -49,7 +49,7 @@ function App() {
       componant: <Login />
     },
     {
-      path: '/register',
+      path: '/registration',
       componant: <Register />
     }
   ]
